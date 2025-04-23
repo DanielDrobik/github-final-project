@@ -10,6 +10,14 @@ Output
 
 
 
+
+
+
+
+
+
+
+
 About the Project
 This project is part of a broader effort by our micro-finance startup to provide accessible, community-driven financial tools aimed at empowering low-income individuals. As a company, we are committed to financial inclusion and believe that access to clear, understandable financial services can create real change in underserved communities.
 
